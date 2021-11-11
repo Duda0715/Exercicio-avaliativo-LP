@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\bin\Debug\netcoreapp3.1\myBank.exe
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\bin\Debug\netcoreapp3.1\myBank.deps.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\bin\Debug\netcoreapp3.1\myBank.dll
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\bin\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.dll
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Exercicio-avaliativo-LP\myBank\obj\Debug\netcoreapp3.1\myBank.genruntimeconfig.cache
